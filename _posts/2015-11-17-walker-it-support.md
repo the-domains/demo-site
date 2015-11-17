@@ -7,10 +7,10 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-17T22:05:28.434Z'
-dateModified: '2015-11-17T22:05:22.584Z'
+datePublished: '2015-11-17T22:07:16.539Z'
+dateModified: '2015-11-17T22:07:12.727Z'
 author: []
-title: Walker IT Support
+title: New Logo
 sourcePath: _posts/2015-11-17-walker-it-support.md
 published: true
 authors: []
