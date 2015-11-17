@@ -4,21 +4,21 @@
         <description><![CDATA[Demo Site]]></description>
         <link>https://thegrid.ai/demo-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 Nov 2015 22:03:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2015 22:05:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/demo-site/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Walker IT Support]]></title>
+            <description><![CDATA[<article><h1>Walker IT Support</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5481c892-5efd-4a42-9b7b-6117e25b8623.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/5481c892-5efd-4a42-9b7b-6117e25b8623.jpg</link>
+            <guid isPermaLink="false">3056f72a-e834-4b99-9f61-35b91abc8e13</guid>
+            <pubDate>Tue, 17 Nov 2015 22:05:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Walker IT Support - Computer Repairs from £30]]></title>
             <description><![CDATA[<article><h1>Walker IT Support - Computer Repairs from £30</h1><p>Hi, I'm Graham Walker owner/engineer trading as Walker IT Support. Based in Gateshead, Tyne and Wear, I have been building, maintaining, repairing and upgrading computers and server systems for over 15 years. Below is a summary of the types of services I've provided.</p></article>]]></description>
             <link>http://www.walker-it-support.co.uk/</link>
             <guid isPermaLink="false">e172fb4c-34cc-4969-91da-951eed9f3351</guid>
             <pubDate>Tue, 17 Nov 2015 22:02:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Walker IT Support]]></title>
-            <description><![CDATA[<article><h1>Walker IT Support</h1><p>Logo</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5481c892-5efd-4a42-9b7b-6117e25b8623.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/5481c892-5efd-4a42-9b7b-6117e25b8623.jpg</link>
-            <guid isPermaLink="false">3056f72a-e834-4b99-9f61-35b91abc8e13</guid>
-            <pubDate>Tue, 17 Nov 2015 21:57:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
