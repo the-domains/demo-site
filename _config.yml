@@ -1,0 +1,23 @@
+name: Demo Site
+favicon: null
+layout_spectrum: 0.05124844005331397
+typography_spectrum: 0.7970634084194899
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.34939711866900325
+  lightness: 0.20200692443177104
+  saturation: 0.8190502242650837
+  rhythmicContrast: 0.7342685570474714
+purpose: []
